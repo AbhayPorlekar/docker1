@@ -2,6 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "handlebars":"4.5.0",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
